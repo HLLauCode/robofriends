@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'APEX FONT';
+    font-style: normal;
+    font-weight: normal;
+    src: local('APEX FONT'),url('Apex\ Regular.otf') format('opentype');
+}
+
+div {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'APEX FONT';
+    font-weight: 200;
+    color: lightblue;
+    letter-spacing: .25em;
+}
